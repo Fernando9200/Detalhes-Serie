@@ -1,0 +1,60 @@
+.Image {
+    width: 80%;
+    height: auto;
+}
+
+#container-season {
+    padding-left: 800px;
+    margin-top: -50px;
+  }
+  
+#content {
+    padding-left: 800px;
+    height: 200px;
+  }
+
+#play {
+  display: right;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: right;
+  margin-left: 350px;
+  margin-top: -45px;
+}
+
+#line-between {
+  border-bottom: 0.5px solid white;
+  max-width: 400px;;
+  margin: 12px 0;
+}
+
+#text-size {
+    max-width: 400px;
+    font-size: 12px;
+}
+
+// .nav-item {
+//   // background:none;
+// }
+
+#qualquer {
+  border-bottom: 2px solid black;
+  width: 1055px;
+  // margin-top: -5.5px;
+}
+
+#qualquer2 {
+  margin-top: 30px;
+}
+
+// #menu-buttom {
+//   // border-bottom: 3px solid transparent;
+// }
+
+#menu-buttom:hover {
+  border-bottom: 2px solid lightgreen;
+}
+
+#menu-buttom.active, #menu-buttom:focus {
+  border-bottom: 2px solid lightgreen;
+}

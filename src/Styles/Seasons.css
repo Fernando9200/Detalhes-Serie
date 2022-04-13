@@ -1,0 +1,59 @@
+.Image {
+  width: 80%;
+  height: auto;
+}
+
+#container-season {
+  padding-left: 800px;
+  margin-top: -50px;
+}
+
+#content {
+  padding-left: 800px;
+  height: 200px;
+}
+
+#play {
+  display: right;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  -webkit-box-align: right;
+      -ms-flex-align: right;
+          align-items: right;
+  margin-left: 350px;
+  margin-top: -45px;
+}
+
+#line-between {
+  border-bottom: 0.5px solid white;
+  max-width: 400px;
+  margin: 12px 0;
+}
+
+#text-size {
+  max-width: 400px;
+  font-size: 12px;
+}
+
+#qualquer {
+  border-bottom: 2px solid black;
+  width: 1055px;
+}
+
+#qualquer2 {
+  margin-top: 30px;
+}
+
+#menu-buttom:hover {
+  border-bottom: 2px solid lightgreen;
+}
+
+#menu-buttom.active, #menu-buttom:focus {
+  border-bottom: 2px solid lightgreen;
+}
+/*# sourceMappingURL=Seasons.css.map */

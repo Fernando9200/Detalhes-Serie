@@ -1,0 +1,74 @@
+.footer {
+  background: #2b2a2a;
+  width: 100%;
+  padding: 7rem;
+  height: 270px;
+  position: relative;
+  top: 80%;
+  -webkit-transform: translateY(-100%);
+          transform: translateY(-100%);
+}
+
+#navbarFooter {
+  margin-top: -100px;
+  width: 300px;
+}
+
+.footer-item {
+  margin: 25px;
+}
+
+.telecine-brand {
+  margin-top: -97px;
+}
+
+#menu-buttom {
+  background: none;
+  margin: 0;
+  padding: 0;
+  border-bottom: 3px solid transparent;
+}
+
+#wrapper {
+  text-decoration: none;
+  font-size: 20px;
+}
+
+#menu-buttom:hover {
+  border-bottom: 2px solid lightgreen;
+}
+
+#menu-buttom.active, #menu-buttom:focus {
+  border-bottom: 2px solid lightgreen;
+}
+
+#legenda {
+  font-size: 12px;
+  margin-top: 6px;
+}
+
+.card {
+  padding: 15px;
+  background-color: #3a3939;
+}
+
+.navbar-brand {
+  text-align: center;
+}
+
+.menu {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+#qualquer {
+  border-bottom: 2px solid black;
+  width: 1055px;
+  margin-top: -44.5px;
+}
+
+#qualquer2 {
+  margin-top: 30px;
+}
+/*# sourceMappingURL=Footer.css.map */

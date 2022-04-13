@@ -1,0 +1,11 @@
+<svg width="34" height="34" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_1" fill-rule="evenodd" fill="none">
+   <path id="svg_2" d="m17,33c8.822,0 16,-7.177 16,-16c0,-8.822 -7.178,-16 -16,-16s-16,7.177 -16,16c0,8.822 7.178,16 16,16z" stroke-width="1.5" stroke="#9B9B9B"/>
+   <path transform="rotate(180 17.2373 23.14)" id="svg_3" d="m17.237,20.556a7.548,7.548 0 0 1 6.257,3.329a1.178,1.178 0 1 1 -1.952,1.32a5.194,5.194 0 0 0 -4.305,-2.294a5.195,5.195 0 0 0 -4.305,2.293a1.178,1.178 0 0 1 -1.952,-1.32a7.548,7.548 0 0 1 6.257,-3.328z" fill-rule="nonzero" fill="#9B9B9B"/>
+   <circle id="svg_4" fill="#9B9B9B" r="1.778" cy="15.222" cx="8.111"/>
+   <circle id="svg_5" fill="#9B9B9B" r="1.778" cy="15.222" cx="25.889"/>
+  </g>
+ </g>
+</svg>

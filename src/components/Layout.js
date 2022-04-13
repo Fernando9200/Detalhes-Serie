@@ -1,6 +1,4 @@
 import React from 'react';
-import { useEffect, useState } from 'react';
-import Seasons from './Seasons';
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.min.js";
 
@@ -9,7 +7,6 @@ export default function Home({
 }) {
 
   const styleBackground={
-      // background: 'linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7))',
       backgroundImage: 
 "linear-gradient(to bottom, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('https://occ-0-894-1123.1.nflxso.net/art/0ef00/005f864851e4be98e96f55020ce769fba680ef00.jpg')",
       height:'100vh',

@@ -40,15 +40,6 @@
   font-size: 12px;
 }
 
-#qualquer {
-  border-bottom: 2px solid black;
-  width: 1055px;
-}
-
-#qualquer2 {
-  margin-top: 30px;
-}
-
 #menu-buttom:hover {
   border-bottom: 2px solid lightgreen;
 }

@@ -1,5 +1,4 @@
 import React from 'react';
-import { useEffect, useState } from 'react';
 import Seasons from './Seasons';
 import "bootstrap/dist/css/bootstrap.min.css";
 import Layout from './Layout';
@@ -18,9 +17,7 @@ export default function Home() {
                 {data?.Title}
             </h1>
             <p className="subtitle" style={{color: 'white'}}>80% INDICADO / CIENCIA FICCIÓN / {data?.Year} / EUA / 14</p>
-            <div id="container3">
             <Seasons/>
-            </div>
             <Footer data={data}/>         
     </Layout>
   );

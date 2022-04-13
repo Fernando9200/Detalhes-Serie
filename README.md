@@ -1,4 +1,4 @@
-# OLá! Para rodar o projeto, siga as instruções abaixo:
+# Olá! Para rodar o projeto, siga as instruções abaixo:
 
 Após baixar os arquivos do projeto, entre na nessa pasta através do terminal e instale a biblioteca React.js digitando no terminal o seguinte código:
 

@@ -8,6 +8,6 @@ Feito isso, você já poderá acessar o servidor local de desenvolvimento do pro
 
 ### `npm start`
 
-Você também pode acessar o site já lançado, no seguinte link: https://solution-test.netlify.app/
+Você também pode acessar o site já lançado, no seguinte link: https://series-front.netlify.app/
 
 Qualquer dúvida ou questionamento, por favor entre em contato!

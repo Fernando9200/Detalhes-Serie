@@ -12,7 +12,7 @@ To start development, you need to clone the GitHub project in a directory of you
 
 ```shell
 cd "directory of your choice"
-git clone https://github.com/Fernando9200/CryptoApp.git
+git clone https://github.com/Fernando9200/Dreadful-Details.git
 ```
 
 ### Deployment

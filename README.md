@@ -1,13 +1,24 @@
-# Olá! Para rodar o projeto, siga as instruções abaixo:
+# Dreadful-Details
 
-Após baixar os arquivos do projeto, entre na nessa pasta através do terminal e instale a biblioteca React.js digitando no terminal o seguinte código:
+This is a front-end project for a website that shows the details of the Penny Dreadful series, made in React. It is a single-page application that gets it's data from an API.
 
-### `npm i react`
+## Getting Started with Create React App
 
-Feito isso, você já poderá acessar o servidor local de desenvolvimento do projeto, para poder visualizar o mesmo. Para isso, digite no terminal (ainda dentro da pasta do projeto) o seguinte código:
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### `npm start`
+## Development
 
-Você também pode acessar o site já lançado, no seguinte link: https://solution-test.netlify.app/
+To start development, you need to clone the GitHub project in a directory of your choice:
 
-Qualquer dúvida ou questionamento, por favor entre em contato!
+```shell
+cd "directory of your choice"
+git clone https://github.com/Fernando9200/Dreadful-Details.git
+```
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
